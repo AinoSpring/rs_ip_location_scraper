@@ -1,0 +1,395 @@
+1.237.62.215:Goyang-si/South Korea
+1.237.104.71:Guro-gu/South Korea
+1.237.147.53:Seongnam-si/South Korea
+1.243.124.57:Incheon/South Korea
+1.243.189.30:Goyang-si/South Korea
+1.249.250.84:Seoul/South Korea
+2.20.4.183:Palermo/Italy
+2.20.4.180:Palermo/Italy
+2.21.103.230:Isando/South Africa
+2.64.220.236:Stockholm/Sweden
+2.64.220.251:Stockholm/Sweden
+2.64.220.253:Stockholm/Sweden
+2.120.28.240:Nuneaton/United Kingdom
+2.120.28.236:Nuneaton/United Kingdom
+2.124.158.47:Bury/United Kingdom
+2.125.230.214:Haywards Heath/United Kingdom
+2.125.245.161:Magherafelt/United Kingdom
+2.137.240.198:Arrecife/Spain
+2.139.224.72:Badalona/Spain
+3.120.182.39:Frankfurt am Main/Germany
+3.120.182.44:Frankfurt am Main/Germany
+3.120.182.111:Frankfurt am Main/Germany
+3.226.90.17:Ashburn/United States
+3.239.115.3:Ashburn/United States
+4.208.25.90:Dublin/Ireland
+5.9.150.221:Falkenstein/Germany
+5.15.38.165:Târgu Mureş/Romania
+5.26.208.216:Mollafeneri/Turkey
+5.32.216.200:Muscat/Oman
+5.61.254.106:Lelystad/Netherlands
+5.68.35.16:Barnsley/United Kingdom
+5.69.44.124:Doncaster/United Kingdom
+5.132.242.36:Yanbu/Saudi Arabia
+5.132.242.34:Yanbu/Saudi Arabia
+5.132.242.35:Yanbu/Saudi Arabia
+39.77.24.5:Qingdao/China
+39.84.0.206:Weifang/China
+39.69.201.7:Weifang/China
+47.92.219.117:Beijing/China
+47.92.219.79:Beijing/China
+27.203.54.96:Weihai/China
+27.203.54.55:Weihai/China
+27.203.54.72:Weihai/China
+27.203.54.68:Weihai/China
+27.203.54.35:Weihai/China
+27.203.54.48:Weihai/China
+27.203.54.65:Weihai/China
+45.40.49.177:Singapore/Singapore
+27.198.196.159:Weifang/China
+27.203.54.91:Weihai/China
+45.39.114.1:Adelanto/United States
+27.119.177.205:Seoul/South Korea
+27.203.54.112:Weihai/China
+27.203.45.162:Weihai/China
+39.84.5.83:Weifang/China
+27.203.54.60:Weihai/China
+27.203.54.82:Weihai/China
+27.184.27.244:Shijiazhuang/China
+39.84.226.165:Weifang/China
+27.196.104.4:Weifang/China
+45.43.8.7:Lenoir/United States
+27.32.50.175:Sydney/Australia
+27.79.112.145:Ho Chi Minh City/Vietnam
+27.7.164.29:Bengaluru/India
+47.92.241.133:Beijing/China
+47.92.211.122:Beijing/China
+39.88.41.89:Qingdao/China
+39.89.70.75:Weifang/China
+47.92.219.111:Beijing/China
+47.93.221.28:Beijing/China
+39.90.253.227:Weifang/China
+47.92.219.78:Beijing/China
+47.93.220.226:Beijing/China
+47.99.36.108:Hangzhou/China
+39.106.80.37:Beijing/China
+39.111.70.28:Takasago/Japan
+47.102.1.123:Shanghai/China
+47.102.42.249:Shanghai/China
+39.112.210.71:Daegu/South Korea
+47.106.197.108:Shenzhen/China
+69.206.55.244:Kingston/United States
+69.206.56.19:Kingston/United States
+69.250.19.102:Annapolis/United States
+73.22.58.73:Mundelein/United States
+73.22.58.64:Mundelein/United States
+73.25.203.35:Salem/United States
+73.30.92.108:Wilmington/United States
+69.253.78.86:Philadelphia/United States
+73.30.209.139:Langhorne/United States
+73.39.221.138:Lanham/United States
+70.53.124.112:Toronto/Canada
+66.228.238.186:Fergus Falls/United States
+66.203.158.170:Central/Hong Kong
+66.231.211.170:Colebrook/United States
+73.40.126.2:Huntington/United States
+73.40.183.155:New Kensington/United States
+73.41.31.41:Manteca/United States
+70.68.228.96:Port Coquitlam/Canada
+73.41.110.126:Winton/United States
+73.43.170.107:Atlanta/United States
+70.92.14.1:Milwaukee/United States
+70.45.5.213:Trujillo Alto/Puerto Rico
+70.88.65.206:Indianapolis/United States
+73.44.39.53:Mokena/United States
+73.46.11.150:Hialeah/United States
+58.214.173.225:Qinnan/China
+54.189.126.241:Portland/United States
+70.107.192.117:New York/United States
+58.234.69.28:Seoul/South Korea
+70.104.190.57:Newport News/United States
+70.66.84.200:Victoria/Canada
+58.79.103.22:Yeongdeungpo-gu/South Korea
+58.225.131.118:Ansan-si/South Korea
+54.194.191.139:Dublin/Ireland
+58.44.19.159:Yueyang/China
+58.29.87.61:Yongsan-dong/South Korea
+58.42.185.85:Guiyang/China
+73.46.85.118:Hialeah/United States
+73.49.208.42:Jupiter/United States
+70.113.40.8:Austin/United States
+70.107.192.110:New York/United States
+58.47.232.242:Loudi/China
+73.66.77.194:Reedley/United States
+73.67.172.155:Eugene/United States
+70.120.65.83:San Antonio/United States
+85.241.201.41:Funchal/Portugal
+74.129.147.181:Cincinnati/United States
+74.77.117.233:Buffalo/United States
+74.96.94.81:Vienna/United States
+74.102.139.16:Lawrenceville/United States
+74.57.184.24:L'Assomption/Canada
+74.129.147.182:Cincinnati/United States
+74.77.118.6:Buffalo/United States
+74.77.110.27:Buffalo/United States
+85.245.124.126:Funchal/Portugal
+85.246.45.135:Oeiras/Portugal
+81.225.52.209:Ludvika/Sweden
+81.198.220.39:Riga/Latvia
+81.198.157.65:Riga/Latvia
+85.247.33.92:Setúbal/Portugal
+85.247.91.241:Lisbon/Portugal
+81.243.128.30:Liège/Belgium
+81.242.118.211:Merksem/Belgium
+86.19.198.177:Grimsby/United Kingdom
+86.19.198.172:Grimsby/United Kingdom
+81.198.157.82:Riga/Latvia
+81.245.215.11:Ledeberg/Belgium
+81.244.217.100:Gembloux/Belgium
+86.19.198.181:Grimsby/United Kingdom
+86.19.198.184:Grimsby/United Kingdom
+86.19.198.154:Grimsby/United Kingdom
+78.203.142.242:Paris/France
+78.203.142.250:Paris/France
+86.19.199.154:Grimsby/United Kingdom
+78.203.142.252:Paris/France
+78.203.143.61:Paris/France
+82.1.73.208:Liverpool/United Kingdom
+78.202.142.41:Lille/France
+78.203.142.238:Paris/France
+86.19.199.152:Grimsby/United Kingdom
+86.19.199.162:Grimsby/United Kingdom
+86.19.199.160:Grimsby/United Kingdom
+82.4.101.2:Consett/United Kingdom
+82.7.193.43:Bickershaw/United Kingdom
+86.19.199.157:Grimsby/United Kingdom
+86.19.199.155:Grimsby/United Kingdom
+82.1.80.97:Oxford/United Kingdom
+82.8.229.150:Brighton/United Kingdom
+82.8.12.46:Wolverhampton/United Kingdom
+86.19.199.153:Grimsby/United Kingdom
+104.108.60.234:Paris/France
+89.108.79.14:Moscow/Russia
+90.148.132.114:Riyadh/Saudi Arabia
+98.146.153.53:Post Falls/United States
+89.71.227.183:Swidnik/Poland
+104.110.141.141:Marietta/United States
+104.108.236.54:New Delhi/India
+98.109.184.10:Freehold/United States
+104.110.134.82:Los Angeles/United States
+104.113.17.71:Chicago/United States
+98.146.153.251:Post Falls/United States
+74.77.110.50:Buffalo/United States
+89.173.192.141:Bratislava/Slovakia
+104.117.35.234:Piscataway/United States
+104.116.60.150:Chennai/India
+104.124.175.27:London/United Kingdom
+104.120.230.3:Melbourne/Australia
+104.127.173.140:Piscataway/United States
+104.129.3.84:Los Angeles/United States
+98.146.153.21:Post Falls/United States
+104.137.252.227:Livonia/United States
+104.137.252.236:Livonia/United States
+104.139.44.223:Gastonia/United States
+104.139.45.39:Gastonia/United States
+104.140.70.218:Dallas/United States
+94.1.112.59:Exmouth/United Kingdom
+94.241.21.59:Rzhev/Russia
+94.211.131.80:Haelen/Netherlands
+94.247.91.199:Foldeak/Hungary
+94.199.211.165:Heidelberg/Germany
+94.241.21.72:Rzhev/Russia
+94.195.49.190:York/United Kingdom
+94.213.37.254:Julianadorp/Netherlands
+94.192.189.219:Ashford/United Kingdom
+94.199.123.225:Noisy-le-Grand/France
+94.195.12.64:Burton-on-Trent/United Kingdom
+94.188.155.142:Yoqne'am 'Illit/Israel
+94.192.158.147:Loughborough/United Kingdom
+94.147.47.122:Kongens Lyngby/Denmark
+94.188.155.93:Yoqne'am 'Illit/Israel
+94.147.159.110:Copenhagen/Denmark
+104.140.70.202:Dallas/United States
+104.166.212.219:Jefferson City/United States
+104.168.240.9:Seattle/United States
+104.175.42.166:Los Angeles/United States
+125.64.179.250:Deyang/China
+119.57.33.189:Beijing/China
+119.74.180.84:Singapore/Singapore
+125.76.72.240:Lanzhou/China
+125.80.181.161:Chongqing/China
+108.59.124.115:Sidney/United States
+108.179.216.83:Houston/United States
+109.25.145.105:Ozouer-le-Voulgis/France
+109.60.74.227:Zadar/Croatia
+109.90.112.185:Uhingen/Germany
+114.202.203.210:Gapyeong County/South Korea
+114.29.77.48:Seosan City/South Korea
+112.169.244.135:Songpa-gu/South Korea
+113.234.207.205:Shenyang/China
+112.176.207.180:Seongnam-si/South Korea
+113.228.57.195:Shenyang/China
+114.83.212.243:Shanghai/China
+109.60.74.205:Zadar/Croatia
+112.78.121.246:Osaka/Japan
+112.247.180.178:Weifang/China
+112.251.90.1:Weifang/China
+113.252.146.31:Central/Hong Kong
+108.159.50.40:Mumbai/India
+113.9.240.58:Harbin/China
+113.245.242.133:Loudi/China
+112.176.247.8:Seongnam-si/South Korea
+113.119.47.28:Guangzhou/China
+109.60.74.209:Zadar/Croatia
+113.239.168.225:Shenyang/China
+112.235.177.172:Weifang/China
+109.60.74.215:Zadar/Croatia
+109.64.132.101:Tel Aviv/Israel
+109.19.4.237:Saint-Pardoux-la-Riviere/France
+125.125.244.248:Huzhou/China
+125.128.172.61:Gangbuk-gu/South Korea
+125.132.114.227:Gwangju/South Korea
+125.138.117.63:Muju-gun/South Korea
+125.139.141.47:Gunsan/South Korea
+125.146.246.205:Seongnam-si/South Korea
+125.147.102.43:Seodaemun-gu/South Korea
+125.147.102.35:Seodaemun-gu/South Korea
+125.148.41.10:Paju-si/South Korea
+125.151.39.45:Yeonsu-gu/South Korea
+125.151.39.58:Yeonsu-gu/South Korea
+125.156.74.197:Seo-gu/South Korea
+179.152.124.193:Porto Alegre/Brazil
+179.175.131.218:São Paulo/Brazil
+179.191.122.137:São Paulo/Brazil
+179.103.112.113:Tiete/Brazil
+179.197.81.143:Sao Goncalo/Brazil
+179.209.57.73:São Paulo/Brazil
+179.251.247.196:Brasília/Brazil
+179.251.247.213:Brasília/Brazil
+166.164.135.182:Sunnyvale/United States
+165.166.94.179:McBee/United States
+165.227.172.7:Frankfurt am Main/Germany
+154.6.249.212:Piscataway/United States
+140.248.131.125:Secaucus/United States
+164.155.161.240:Chicago/United States
+164.132.92.20:Roubaix/France
+141.98.51.122:Bern/Switzerland
+153.174.132.155:Fujisawa/Japan
+153.142.108.44:Yao/Japan
+153.246.230.208:Shinchiba/Japan
+140.186.59.135:Fargo/United States
+141.151.236.1:Duncansville/United States
+139.227.38.38:Shanghai/China
+141.164.254.22:Jeddah/Saudi Arabia
+163.123.157.129:Bird Island/United States
+165.254.159.1:Santa Monica/United States
+139.180.220.241:Singapore/Singapore
+152.232.101.218:Rio de Janeiro/Brazil
+140.120.48.13:Taichung/Taiwan
+153.147.19.230:Tokyo/Japan
+140.141.173.97:Peoria/United States
+140.192.249.230:Homewood/United States
+179.252.186.92:Mirassol d'Oeste/Brazil
+179.254.243.134:Cuiabá/Brazil
+180.42.10.94:Chiyoda/Japan
+180.65.115.34:Yeosu/South Korea
+180.72.47.18:Kuala Lumpur/Malaysia
+180.39.217.102:Osaka/Japan
+180.103.236.131:Qinnan/China
+180.103.229.233:Qinnan/China
+180.110.181.250:Nanjing/China
+180.126.111.170:Yancheng/China
+180.131.111.100:Shizuoka/Japan
+180.136.142.33:Lilancun/China
+180.223.222.155:London/United Kingdom
+180.223.207.167:Toronto/Canada
+211.195.165.17:Incheon/South Korea
+211.199.41.125:Buk-gu/South Korea
+211.194.78.68:Gwangsan-gu/South Korea
+211.201.93.46:Uiwang-si/South Korea
+211.203.42.34:Wonju/South Korea
+211.203.194.77:Seoul/South Korea
+211.205.52.68:Dongjak-gu/South Korea
+211.205.52.70:Dongjak-gu/South Korea
+211.207.14.86:Dong-gu/South Korea
+211.207.43.38:Suwon/South Korea
+211.210.9.92:Gimpo-si/South Korea
+211.212.8.60:Dongjak-gu/South Korea
+189.186.55.191:Culiacán/Mexico
+187.212.14.156:Puebla City/Mexico
+189.183.146.62:San Luis Potosí City/Mexico
+187.211.189.30:Tala/Mexico
+189.183.119.205:San Luis Potosí City/Mexico
+189.172.179.74:Mérida/Mexico
+189.168.90.94:Zacatecas City/Mexico
+184.87.59.103:New York/United States
+185.51.215.235:Amman/Jordan
+189.159.41.209:Santa Catarina/Mexico
+189.168.56.190:Zacatecas City/Mexico
+184.190.139.36:Chandler/United States
+184.176.78.101:Chandler/United States
+185.34.91.147:Obermoschel/Germany
+185.73.136.63:Cumiana/Italy
+185.73.136.74:Cumiana/Italy
+185.86.89.135:Paris/France
+187.168.109.51:Mexico City/Mexico
+187.200.126.7:Toluca/Mexico
+185.27.20.197:London/United Kingdom
+187.192.188.44:Santa Rosa/Mexico
+187.194.160.204:Puebla City/Mexico
+187.200.153.131:Mexico City/Mexico
+189.172.202.222:Mérida/Mexico
+188.82.170.66:Mortagua/Portugal
+184.97.175.193:Omaha/United States
+187.175.30.81:Puerto Vallarta/Mexico
+184.155.67.94:Idaho Falls/United States
+184.168.190.61:Tempe/United States
+185.149.24.12:Ashburn/United States
+185.135.184.84:Stockholm/Sweden
+189.164.180.202:Puebla City/Mexico
+188.98.238.16:Nuremberg/Germany
+221.199.194.134:Hohhot/China
+221.211.0.39:Harbin/China
+221.167.61.246:Jinju/South Korea
+221.209.26.70:Harbin/China
+221.220.109.133:Beijing/China
+217.215.55.194:Kvidinge/Sweden
+221.229.74.199:Qinnan/China
+221.221.80.92:Beijing/China
+217.234.12.34:Willich/Germany
+217.255.51.13:Weil am Rhein/Germany
+218.50.150.149:Dongjak-gu/South Korea
+221.146.83.37:Seongbuk-gu/South Korea
+217.215.55.192:Kvidinge/Sweden
+218.43.246.17:Osaka/Japan
+217.234.246.214:Frankfurt am Main/Germany
+221.187.210.203:Tokyo/Japan
+218.41.233.155:Hanyu/Japan
+221.162.198.211:Buk-gu/South Korea
+218.50.150.142:Dongjak-gu/South Korea
+222.104.34.172:Gumi/South Korea
+221.165.42.137:Hwaseong-si/South Korea
+218.21.42.38:Beijing/China
+217.93.186.151:Cadenberge/Germany
+217.217.180.18:Seville/Spain
+217.215.52.28:Kvidinge/Sweden
+222.107.137.24:Songpa-gu/South Korea
+218.27.162.43:Jilin City/China
+223.190.133.41:Patna/India
+222.84.223.75:Lilancun/China
+222.96.136.75:Seongnam-si/South Korea
+221.230.171.211:Qinnan/China
+222.74.178.13:Heping/China
+221.229.74.194:Qinnan/China
+218.55.34.147:Jungnang-gu/South Korea
+218.145.133.149:Seocho-gu/South Korea
+222.74.187.159:Bieligutai/China
+218.58.120.61:Zibo/China
+218.145.145.233:Seoul/South Korea
+218.87.194.148:Nanchangshi/China
+218.67.178.5:Tianjin/China
+218.146.186.228:Nam-gu/South Korea
+218.148.104.226:Bucheon-si/South Korea
+221.235.201.33:Wulipu/China
+218.153.237.239:Seo-gu/South Korea
+222.74.251.83:Bieligutai/China
